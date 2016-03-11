@@ -1,0 +1,19 @@
+{
+    "discount":
+    {
+        "name": "95ÕÛ",
+        "barcode":
+        [
+            "ITEM000001",
+            "ITEM000002"
+        ]
+    },
+    "extra":
+    {
+        "name": "Âò¶þÔùÒ»",
+        "barcode":
+        [
+            "ITEM000090"
+        ]
+    }
+}

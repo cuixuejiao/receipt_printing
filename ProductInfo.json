@@ -1,0 +1,12 @@
+{
+    "ITEM000001":{ "name": "可口可乐", "unit": "听", "price": 2.50, "type": "饮料" },
+    "ITEM000002":{ "name": "羽毛球", "unit": "盒", "price": 12.50, "type": "户外用品" },
+    "ITEM000003":{ "name": "苹果", "unit": "斤", "price": 8.50, "type": "水果" },
+    "ITEM000004":{ "name": "特仑苏", "unit": "箱", "price": 65.50, "type": "奶制品" },
+    "ITEM000005":{ "name": "护手霜", "unit": "个", "price": 2.99, "type": "护肤品" },
+    "ITEM000006":{ "name": "剪刀", "unit": "个", "price": 7.99, "type": "日用品" },
+    "ITEM000090":{ "name": "普洱茶", "unit": "桶", "price": 152.50, "type": "烟酒茶" },
+    "ITEM000101":{ "name": "鳕鱼", "unit": "斤", "price": 77.99, "type": "鱼肉" },
+    "ITEM010101":{ "name": "台灯", "unit": "台", "price": 99.99, "type": "日用品" },
+    "ITEM666666":{ "name": "拖把", "unit": "个", "price": 12.50, "type": "日用品" }
+}
