@@ -77,7 +77,7 @@ while read NEW_LINE; do
 done < shoppinglist
 echo "-------------------"
 echo "总计：$TOTAL_SUM(元)"
-if [ $TOTAL_SAVE -gt 0 ]; then
+if [ `echo "$TOTAL_SAVE>0" |bc` -eq 1 ]; then
     echo "节省：$TOTAL_SAVE(元)"
 fi
 echo "********************"
